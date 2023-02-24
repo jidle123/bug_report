@@ -2,8 +2,6 @@
 
 BUG_Author:jidle
 
-Website source address:https://www.sourcecodester.com/php/13060/moosikay-e-commerce-system.html
-
 Vulnerability File: /Moosikay/order.php
 
 POST parameter 'username' exists SQL injection vulnerability
