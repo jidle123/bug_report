@@ -2,8 +2,6 @@
 
 BUG_Author: jidle
 
-Website source address:https://www.sourcecodester.com/php/10968/online-boat-reservation-system.html
-
 Vulnerability File: /boat/login.php
 
 Parameter "un" (POST), exists XSS vulnerability
